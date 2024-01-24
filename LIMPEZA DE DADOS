@@ -1,1 +1,6 @@
+A limpeza de dados na ciência de dados é crucial para garantir a qualidade e confiabilidade das análises. Envolve identificar e corrigir inconsistências, outliers e dados ausentes, além de padronizar formatos. Esse processo visa garantir que os dados estejam precisos e prontos para análises estatísticas, contribuindo para resultados mais robustos e conclusões confiáveis.
 
+
+Na limpeza de dados, é essencial lidar com valores nulos, duplicatas e erros de entrada. Transformar dados para formatos consistentes, como datas e texto, também é comum. A detecção e remoção de outliers ajudam a evitar distorções nos resultados. Além disso, o entendimento do contexto dos dados é crucial para tomar decisões informadas durante o processo de limpeza, assegurando que os dados reflitam com precisão o fenômeno estudado.
+
+Adicionalmente, a limpeza de dados inclui a validação de integridade referencial entre conjuntos de dados, garantindo a coesão das informações. O uso de técnicas estatísticas e algoritmos de aprendizado de máquina pode auxiliar na identificação de padrões anômalos. A documentação detalhada do processo de limpeza é fundamental para a transparência e replicabilidade das análises, promovendo a confiança nos resultados finais da ciência de dados.
